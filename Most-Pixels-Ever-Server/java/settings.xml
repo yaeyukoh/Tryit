@@ -1,0 +1,5 @@
+<settings>
+	<port>9002</port>
+	<framerate>30</framerate>
+	<verbose>true</verbose>
+</settings>
